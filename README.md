@@ -2,7 +2,7 @@
 
 ## A lecturer in Computing at SETU Waterford
 
-- 💬 Ask me about **HTML, CSS,JavaScript, React, Node, Express, MongoDB, MySQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Express, MongoDB, MySQL**
   
 - 🌱 I’m currently learning **Python, TypeScript**
 
