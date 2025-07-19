@@ -16,7 +16,7 @@
 
 ## Find my current modules: 
 
-[<img align="center" src="https://pbs.twimg.com/profile_images/1569628306466545666/WUMONfzR_400x400.jpg" alt="Tutors" height="50" width="50" />](https://rbirney.github.io)
+[<img align="center" src="https://pbs.twimg.com/profile_images/1569628306466545666/WUMONfzR_400x400.jpg" alt="Tutors" height="50" width="50" />](https://rbirney.github.io){:target="_blank"}
 
 <a href="https://rbirney.github.io" target="_blank"><img align="center" src="https://pbs.twimg.com/profile_images/1569628306466545666/WUMONfzR_400x400.jpg" alt="Tutors" height="50" width="50" /></a>
 
