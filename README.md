@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently learning **Python, TypeScript**
 
-- 📫 How to reach me: **rbirney@wit.ie**
+- 📫 How to reach me: **rosanne.birney@setu.ie**
 
 ## Languages and Tools:
 
